@@ -1,3 +1,7 @@
+# First install the necessary support libraries
+
+pip install -r requirements.txt
+
 # Example usage of the PDF to PNG converter
 
 from pdf_to_png_converter import pdf_to_png
